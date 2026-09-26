@@ -1,6 +1,4 @@
-## SECTION 1
-
-**INTRODUCTORY PROVISIONS**
+(Article numbers in this version are correlated to the proposed regulation of the Passenger Package)
 
 ### Article 1
 
@@ -10,7 +8,7 @@ This Regulation shall apply to any computerised reservation system (CRS), in so 
 
 This Regulation shall also apply to rail-transport products, which are incorporated alongside air-transport products into the principal display of a CRS when offered for use or used in the Community.
 
-### Article 2
+### Article 3
 
 **Definitions**
 
@@ -37,11 +35,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 14. ‘bundled product’ means a prearranged combination of transport with other services not ancillary to transport and offered at an inclusive price;
 15. ‘booking fee’ means the price to be paid by air carriers to system vendors for the services provided by the CRS.
 
-## SECTION 2
-
-**RULES OF CONDUCT FOR SYSTEM VENDORS**
-
-### Article 3
+### Article 5
 
 **Relationship with transport providers**
 
@@ -51,22 +45,10 @@ For the purposes of this Regulation, the following definitions shall apply:
 2.   A system vendor shall load and process data provided by participating carriers with equal care and timeliness, subject only to the constraints of the loading method selected by individual participating carriers.
 3.   A system vendor shall publicly disclose, unless this is otherwise made public, the existence and extent of a direct or indirect capital holding of an air carrier or rail-transport operator in a system vendor, or of a system vendor in an air carrier or rail-transport operator.
 
-### Article 4
-
 **Distribution facilities**
 
 1.   A system vendor shall not reserve any specific loading and/or processing procedure, any other distribution facility, or any changes to these, for one or more participating carriers, including its parent carrier(s). The system vendor shall provide information about changes to its distribution facilities and loading/processing procedures to all participating carriers.
 2.   A system vendor shall ensure that its distribution facilities are separated, at least by means of software and in a clear and verifiable manner, from any carrier’s private inventory and management and marketing facilities.
-
-### Article 5
-
-**Displays**
-
-1.   A system vendor shall provide a principal display or displays for each individual transaction through its CRS and shall include therein the data provided by participating carriers in a neutral and comprehensive manner and without discrimination or bias. Criteria to be used for ranking shall not be based on any factor directly or indirectly relating to carrier identity and shall be applied on a non-discriminatory basis to all participating carriers. The principal display(s) shall not mislead the user, shall be easily accessible and shall respect the rules set out in Annex I.
-2.   In the case of information provided by a CRS to the consumer, a subscriber shall use a neutral display in accordance with paragraph 1 unless another display is required to meet a preference indicated by a consumer.
-3.   Flights operated by air carriers subject to an operating ban pursuant to Regulation (EC) No 2111/2005 of the European Parliament and of the Council of 14 December 2005 on the establishment of a Community list of air carriers subject to an operating ban within the Community and on informing air transport passengers of the identity of the operating air carrier (7) must be clearly and specifically identified in the display.
-4.   The system vendor shall introduce a specific symbol in the CRS display which shall be identifiable by the users for the purposes of the information on the identity of the operating air carrier provided for under Article 11 of Regulation (EC) No 2111/2005.
-5.   This Article shall not apply to a CRS used by an air carrier, or rail-transport operator, or a group of air carriers, or of rail-transport operators, in its or their own office or offices and sales counters or on their own websites clearly identified as such.
 
 ### Article 6
 
@@ -77,6 +59,20 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 ### Article 7
 
+**Displays**
+
+1.   A system vendor shall provide a principal display or displays for each individual transaction through its CRS and shall include therein the data provided by participating carriers in a neutral and comprehensive manner and without discrimination or bias. Criteria to be used for ranking shall not be based on any factor directly or indirectly relating to carrier identity and shall be applied on a non-discriminatory basis to all participating carriers. The principal display(s) shall not mislead the user, shall be easily accessible and shall respect the rules set out in Annex I.
+2.   In the case of information provided by a CRS to the consumer, a subscriber shall use a neutral display in accordance with paragraph 1 unless another display is required to meet a preference indicated by a consumer.
+3.   Flights operated by air carriers subject to an operating ban pursuant to Regulation (EC) No 2111/2005 of the European Parliament and of the Council of 14 December 2005 on the establishment of a Community list of air carriers subject to an operating ban within the Community and on informing air transport passengers of the identity of the operating air carrier (7) must be clearly and specifically identified in the display.
+4.   The system vendor shall introduce a specific symbol in the CRS display which shall be identifiable by the users for the purposes of the information on the identity of the operating air carrier provided for under Article 11 of Regulation (EC) No 2111/2005.
+5.   This Article shall not apply to a CRS used by an air carrier, or rail-transport operator, or a group of air carriers, or of rail-transport operators, in its or their own office or offices and sales counters or on their own websites clearly identified as such.
+
+**Data provided by participating carriers**
+
+Participating carriers, and intermediaries handling the data, shall ensure that the data which they submit to a CRS are accurate and that the data allow the system vendor to respect the rules set out in Annex I.
+
+### Article 8
+
 **Marketing Information Data Tapes (’MIDT’)**
 
 1.   Any marketing, booking and sales data may be made available by system vendors provided that such data are offered with equal timeliness and on a non-discriminatory basis to all participating carriers, including parent carriers. Data may and, on request, shall cover all participating carriers and/or subscribers.
@@ -84,24 +80,14 @@ For the purposes of this Regulation, the following definitions shall apply:
 3.   Where such data result from the use of the distribution facilities of a CRS by a subscriber established in the Community, they shall include no identification either directly or indirectly of that subscriber unless the subscriber and the system vendor agree on the conditions for the appropriate use of such data. This applies equally to the supply of such data by the system vendors to any other party for use by this party other than for billing settlement.
 4.   Agreements between subscriber(s) and system vendor(s) on the MIDT shall be made available to the public.
 
-### Article 8
+### Article 11
 
 **Equivalent treatment in third countries**
 
 1.   Without prejudice to international agreements to which the Community or the Member States are parties, where the treatment of Community air carriers by a system vendor operating in a third country is not equivalent to the treatment of the third country participating carriers with regard to any matter contained in this Regulation, the Commission may require all system vendors operating in the Community to treat air carriers of that third country in a manner that is equivalent to the treatment of Community air carriers in that third country.
 2.   The Commission shall monitor the application of the discriminatory or non-equivalent treatment of Community air carriers by system vendors in third countries. At the request of a Member State or on its own initiative, the Commission shall investigate potential cases of discrimination against Community air carriers in CRSs of third countries. Where such discrimination is found, before taking a decision, the Commission shall inform the Member States and interested parties and seek their comments, including by holding a meeting of relevant experts from the Member States.
 
-## SECTION 3
-
-**RULES OF CONDUCT FOR TRANSPORT PROVIDERS**
-
-### Article 9
-
-**Data provided by participating carriers**
-
-Participating carriers, and intermediaries handling the data, shall ensure that the data which they submit to a CRS are accurate and that the data allow the system vendor to respect the rules set out in Annex I.
-
-### Article 10
+### Article X
 
 **Specific rules for parent carriers**
 
@@ -111,11 +97,7 @@ Participating carriers, and intermediaries handling the data, shall ensure that 
 4.   A parent carrier shall neither directly nor indirectly discriminate in favour of its own CRS by linking the use of any specific CRS by a subscriber with the receipt of any commission or other incentive or disincentive for the sale of its transport products.
 5.   A parent carrier shall neither directly nor indirectly discriminate in favour of its own CRS by requiring the use of any specific CRS by a subscriber for sale or issue of tickets for any transport products provided either directly or indirectly by itself.
 
-## SECTION 4
-
-**PROTECTION OF PERSONAL DATA**
-
-### Article 11
+### Article X
 
 **Processing, access and storage of personal data**
 
@@ -130,44 +112,14 @@ Participating carriers, and intermediaries handling the data, shall ensure that 
 9.   The provisions of this Regulation particularise and complement Directive 95/46/EC for the purposes mentioned in Article 1. Save as otherwise provided, the definitions in that Directive shall apply. Where the specific provisions with regard to the processing of personal data in the context of the activities of a CRS laid down in this Article do not apply, this Regulation shall be without prejudice to the provisions of that Directive, the national provisions adopted pursuant thereto and the provisions of international agreements to which the Community is party.
 10.   Where a system vendor operates databases in different capacities such as, as a CRS, or as a host for airlines, technical and organisational measures shall be taken to prevent the circumvention of data protection rules through the interconnection between the databases, and to ensure that personal data are only accessible for the specific purpose for which they were collected.
 
-## SECTION 5
-
-**AUDIT**
-
-### Article 12
+### Article X
 
 **Auditor and audited report**
 
 1.   Every system vendor shall, every four years and, in addition, upon request from the Commission, submit an independently audited report detailing the ownership structure and governance model. Costs related to the audited report shall be borne by the system vendor.
 2.   The system vendor shall inform the Commission of the identity of the auditor before confirmation of the appointment. The Commission may object and, within two months and after consultation with the auditor, the system vendor and any other party claiming a legitimate interest, shall decide whether or not the auditor is to be replaced.
 
-## SECTION 6
-
-**INFRINGEMENTS AND PENALTIES**
-
-### Article 13
-
-**Infringements**
-
-Where the Commission, acting on a complaint or on its own initiative, finds that there is an infringement of this Regulation, it may by decision require the undertakings or associations of undertakings concerned to bring such an infringement to an end. Investigations regarding possible infringements of this Regulation shall fully take into account the results of any inquiry under Articles 81 and 82 of the Treaty.
-
-### Article 14
-
-**Powers of investigation**
-
-In order to carry out the duties assigned to it by this Regulation, the Commission may, by simple request or decision, require undertakings or associations of undertakings to provide all necessary information, including the provision of specific audits notably on issues covered by Articles 4, 7, 10 and 11.
-
-### Article 15
-
-**Fines**
-
-1.   The Commission may, by decision, impose on undertakings and associations of undertakings fines not exceeding 10 % of the total turnover in the preceding business year where, intentionally or negligently, they infringe this Regulation.
-2.   The Commission may, by decision, impose on undertakings and associations of undertakings fines not exceeding 1 % of the total turnover in the preceding business year where, intentionally or negligently, they supply incorrect or incomplete information or do not supply information within the required time limit in response to a request made by a decision adopted pursuant to Article 14.
-3.   In fixing the amount of the fines, regard shall be had both to the gravity and to the duration of the infringement.
-4.   Fines shall not be of a criminal nature.
-5.   The Court of Justice of the European Communities shall have unlimited jurisdiction to review decisions whereby the Commission has imposed a fine. It may cancel, reduce or increase the fine.
-
-### Article 16
+### Article 12
 
 **Procedures**
 
@@ -180,18 +132,32 @@ Any person who submits information to the Commission under this Regulation shall
 4.   If so requested, the Commission shall grant access to the file to the parties to whom it has addressed a statement of objections and to the complainant. Access shall be granted after the notification of the statement of objections. The right of access to the file shall not extend to business secrets, other confidential information and internal documents of the Commission.
 5.   If the Commission considers it necessary, it may hear other natural or legal persons.
 
-## SECTION 7
+**Infringements**
 
-**FINAL PROVISIONS**
+Where the Commission, acting on a complaint or on its own initiative, finds that there is an infringement of this Regulation, it may by decision require the undertakings or associations of undertakings concerned to bring such an infringement to an end. Investigations regarding possible infringements of this Regulation shall fully take into account the results of any inquiry under Articles 81 and 82 of the Treaty.
 
-### Article 17
+**Powers of investigation**
+
+In order to carry out the duties assigned to it by this Regulation, the Commission may, by simple request or decision, require undertakings or associations of undertakings to provide all necessary information, including the provision of specific audits notably on issues covered by Articles 4, 7, 10 and 11.
+
+### Article 14
+
+**Fines**
+
+1.   The Commission may, by decision, impose on undertakings and associations of undertakings fines not exceeding 10 % of the total turnover in the preceding business year where, intentionally or negligently, they infringe this Regulation.
+2.   The Commission may, by decision, impose on undertakings and associations of undertakings fines not exceeding 1 % of the total turnover in the preceding business year where, intentionally or negligently, they supply incorrect or incomplete information or do not supply information within the required time limit in response to a request made by a decision adopted pursuant to Article 14.
+3.   In fixing the amount of the fines, regard shall be had both to the gravity and to the duration of the infringement.
+4.   Fines shall not be of a criminal nature.
+5.   The Court of Justice of the European Communities shall have unlimited jurisdiction to review decisions whereby the Commission has imposed a fine. It may cancel, reduce or increase the fine.
+
+### Article X
 
 **Repeal**
 
 1.   Regulation (EEC) No 2299/89 shall be repealed.
 2.   References to the repealed Regulation shall be construed as references to this Regulation and be read in accordance with the correlation table set out in Annex II.
 
-### Article 18
+### Article 17
 
 **Review**
 
