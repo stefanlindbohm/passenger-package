@@ -39,7 +39,8 @@ For the purposes of this Regulation the following definitions apply:
 6. ‘transport contract’ means a contract of rail carriage for reward or free of charge between a railway undertaking and a passenger for the provision of one or more transport services;
 7. ‘ticket’ means valid evidence, regardless of its form, of the conclusion of a transport contract;
 8. ‘reservation’ means an authorisation, on paper or in electronic form, giving entitlement to transportation subject to previously confirmed personalised transport arrangements;
-9. ‘through-ticket’ means a through-ticket as defined in point (35) of Article 3 of Directive 2012/34/EU;
+9. ‘through-ticket’ means a ticket or tickets representing a transport contract for successive railway services operated by one or more railway undertakings;’
+  - (a) ‘single ticket’ means valid evidence, regardless of its form, of a through- ticket or of the conclusion of two or more transport contracts for a journey purchased in a single commercial transaction from a railway undertaking, ticket vendor or tour operator’
 10. ‘service’ means a passenger rail transport service that operates between rail stations according to a timetable, including transport services offered for re-routing;
 11. ‘journey’ means the carriage of a passenger between a station of departure and a station of arrival;
 12. ‘domestic rail passenger service’ means a rail passenger service which does not cross a border of a Member State;
@@ -50,9 +51,10 @@ For the purposes of this Regulation the following definitions apply:
 17. ‘delay’ means the time difference between the time the passenger was scheduled to arrive in accordance with the published timetable and the time of his or her actual or expected arrival at the station of final destination;
 18. ‘arrival’ means the moment when the doors of the train are opened on the destination platform and disembarkation is allowed;
 19. ‘travel pass’ or ‘season ticket’ means a ticket for an unlimited number of journeys which provides the authorised holder with rail travel on a particular route or network during a specified period;
-20. ‘missed connection’ means a situation where a passenger misses one or more services in the course of a rail journey, sold in the form of a through-ticket, as a result of the delay or cancellation of one or more previous services, or of the departure of a service before the scheduled departure time;
+20. ‘missed connection’ means a situation where a passenger misses one or more services in the course of a rail journey sold in the form of a single ticket, as a result of the delay or cancellation of one or more previous services, or of the departure of a service before the scheduled departure time’
 21. ‘person with disabilities’ and ‘person with reduced mobility’ mean any person who has a permanent or temporary physical, mental, intellectual or sensory impairment which, in interaction with various barriers, may hinder his or her full and effective use of transport on an equal basis with other passengers or whose mobility when using transport is reduced due to age;
 22. ‘station’ means a location on a railway where a rail passenger service can start, stop or end.
+23. ‘night train service’ means a rail passenger service which is scheduled to run predominantly during nighttime hours and which is composed entirely or in part of rolling stock equipped with dedicated sleeping accommodation, such as berths, couchettes or sleeping cabins.’
 
 ## CHAPTER II TRANSPORT CONTRACT, INFORMATION AND TICKETS
 
@@ -121,17 +123,18 @@ Railway undertakings may require from other railway undertakings, tour operators
   Member States may allow railway undertakings to require that persons with disabilities are recognised as such in accordance with the relevant national law and practices of the country of their residence.<br>
   Member States may extend the right referred to in the first subparagraph to all passengers. Where Member States apply this option, they shall inform the Commission accordingly. The European Union Agency for Railways shall publish the information on its website relating to the implementation of Regulations (EU) No 454/2011 and (EU) No 1300/2014.
 
-### Article 12 - Through-tickets
+### Article 12 - Tickets for journeys including one or more connections
 
-1.   Where long-distance or regional rail passenger services are operated by a sole railway undertaking, that undertaking shall offer a through-ticket for those services. For other rail passenger services, railway undertakings shall make all reasonable efforts to offer through-tickets and shall cooperate to that end among themselves.
+1.   Where long-distance or regional rail passenger services are operated by a sole railway undertaking, that undertaking shall offer a through-ticket for those services.
 For the purpose of the first subparagraph the term ‘sole railway undertaking’ shall also include all railway undertakings which are either wholly owned by the same owner or which are wholly-owned subsidiary undertakings of one of the railway undertakings involved.
-2.   For journeys including one or more connections, the passenger shall be informed prior to purchasing a ticket or tickets whether that ticket or those tickets constitute a through-ticket.
-3.   For journeys including one or more connections, a ticket or tickets, purchased in a single commercial transaction from a railway undertaking, shall constitute a through-ticket and the railway undertaking shall be liable in accordance with Articles 18, 19 and 20 if the passenger misses one or more connections.
-4.   Where a ticket or tickets are purchased in a single commercial transaction and the ticket vendor or tour operator has combined the tickets on its own initiative, the ticket vendor or tour operator that sold the ticket or tickets shall be liable to reimburse the total amount paid for that transaction for the ticket or tickets and, moreover, to pay compensation equivalent to 75 % of that amount in the event that the passenger misses one or more connections.<br>
-  The right to reimbursement or to compensation referred to in the first subparagraph is without prejudice to applicable national law granting passengers further compensation for damage.
-5.   The liabilities set out in paragraphs 3 and 4 shall not apply if it is mentioned on the tickets, or on another document or electronically in such a manner that allows the passenger to reproduce the information for future reference, that the tickets represent separate transport contracts, and the passenger was informed of this prior to the purchase.
-6.   The burden of proof that the passenger was provided with the information referred to in this Article shall lie with the railway undertaking, tour operator or ticket vendor that sold the ticket or tickets.
-7.   The ticket vendors or the tour operators shall be responsible for handling requests and possible complaints of the passenger under paragraph 4. The reimbursement and the compensation referred to in paragraph 4 shall be paid within 30 days after the receipt of the request.
+2. For journeys involving long-distance or regional rail passenger services under a single ticket, the railway undertaking whose delayed or cancelled or early departed service causes a missed connection with one or more services under that same single ticket shall be liable in accordance with Articles 18, 19 and 20 for all relevant disruption occurring during the entire journey if the passenger misses one or more connections. Railway undertakings whose services under a single ticket are missed due to a missed connection shall allow the passenger to continue the journey on their next service, subject to the availability of seats.
+3. When offering tickets, railway undertakings, ticket vendors and tour operators shall not segment or sell under separate commercial transactions any journey which can be sold under a single ticket.
+4. When offering single tickets, railway undertakings, ticket vendors and tour operators shall adhere at least to the applicable minimum connection times laid down in accordance with Commission Regulation (EU) 2026/253*.
+5. Where a railway undertaking, ticket vendor or tour operator sells a single ticket for a journey which does not adhere to the minimum connection times referred to in paragraph 4 and the passenger misses one or more connections:
+  - (a) the railway undertaking shall not be liable in accordance with paragraph 2, unless it sold the single ticket and operates at least one of the services under that ticket;
+  - (b) the ticket vendor or tour operator shall be liable to pay compensation equivalent to 75 % of the total amount paid for the single ticket and to offer the choice between a reimbursement of the total amount paid for the single ticket or of the necessary, appropriate and reasonable costs for re-routing incurred by the passenger.
+6. The railway undertaking liable in accordance with paragraph 2 may entrust another railway undertaking, ticket vendor or tour operator with the processing of the rights under this Regulation, provided that the passenger is informed about this transfer of tasks prior to purchasing the single ticket. The transfer of tasks shall not affect the liability of the transferring railway undertaking.
+7. Paragraphs 3 to 5 shall not apply to single tickets which consist of only one through-ticket.
 
 ## CHAPTER III LIABILITY OF RAILWAY UNDERTAKINGS FOR PASSENGERS AND THEIR LUGGAGE
 
@@ -176,9 +179,12 @@ Subject to the provisions of this Chapter, the liability of railway undertakings
 
 ### Article 19 - Compensation
 
-1.   Without losing the right of transport, a passenger is entitled to compensation for delays from the railway undertaking if he or she is facing a delay between the places of departure and final destination stated in the ticket or through-ticket for which the cost has not been reimbursed in accordance with Article 18. The minimum compensation for delays shall be as follows:
-  - (a) 25 % of the ticket price for a delay of 60 to 119 minutes;
-  - (b) 50 % of the ticket price for a delay of 120 minutes or more.
+1. Without losing the right of transport, a passenger is entitled to compensation for delays from the railway undertaking if he or she is facing a delay between the places of departure and final destination stated in the ticket or single ticket for which the cost has not been reimbursed in accordance with Article 18. The minimum compensation for delays shall be as follows:<br>
+  (a) 25 % of the ticket price for a delay of 60 to 119 minutes;<br>
+  (b) 50 % of the ticket price for a delay of 120 minutes or more.<br>
+  Where a passenger has a single ticket for a scheduled journey of 12 hours or more between the places of departure and final destination as stated in the single ticket the passenger shall only be entitled to compensation under the first subparagraph in relation to delays affecting the individual transport contracts in the execution of which the delays occurred. Where applicable, passengers shall be informed of that limitation prior to purchasing the single ticket.<br>
+  The second subparagraph shall not apply to single tickets which include a night train
+service or to single tickets which consist of only one through-ticket.
 2.   Paragraph 1 shall also apply to passengers who hold a travel pass or season ticket. If those passengers encounter recurrent delays or cancellations during the period of validity of the travel pass or season ticket, they shall be entitled to adequate compensation in accordance with the railway undertaking’s compensation arrangements. These arrangements shall state the criteria for determining delay and for the calculation of the compensation. Where delays of less than 60 minutes occur repeatedly during the period of validity of the travel pass or season ticket, the delays may be counted cumulatively and passengers may be compensated in accordance with the railway undertaking’s compensation arrangements.
 3.   Without prejudice to paragraph 2, compensation for delay shall be calculated in relation to the full price which the passenger actually paid for the delayed service. Where the transport contract is for a return journey, compensation for delay on either the outward or the return leg shall be calculated in relation to the price indicated for that leg of the journey on the ticket. Where there is no such indication of the price of the individual legs of the journey, the compensation shall be calculated in relation to half of the price paid for the ticket. In the same way, the price for a delayed service provided under any other form of transport contract entitling the passenger to travel for two or more subsequent legs shall be calculated in proportion to the full price.
 4.   The calculation of the period of delay shall not take into account any delay that the railway undertaking can demonstrate as having occurred outside the Union.
